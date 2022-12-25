@@ -6,6 +6,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/BreakInGUI
 
 --[[ Script Description:
 
-							SPAWN ITEMS - TELEPORTS - SHIFT TO SPRINT - KILL BAD GUYS - GOD MODE
+							Script for issuing any items in the game!
 						
 ]]
