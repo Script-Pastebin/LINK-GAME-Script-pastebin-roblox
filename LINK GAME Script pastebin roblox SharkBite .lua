@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
+loadstring(rawget(game:GetObjects("rbxassetid://3623753581"), 1).Source)("Pepsi Byte")
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							The new AFK-farm for this place is suitable for night farming!
+							The script will help you pump fast enough!
 						
 ]]
