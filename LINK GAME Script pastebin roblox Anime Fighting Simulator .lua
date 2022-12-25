@@ -1,9 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-_G.FasterLoading=false loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers/Spicy-Bagel/main/SpicyBagelHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
-Script with more than 10 functions for this place!
+
+							The script is only for fast farming!
+						
 ]]
