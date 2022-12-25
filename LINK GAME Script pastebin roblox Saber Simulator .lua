@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Helios-Hub/main/Loader.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Allinity/Allinity-Hub/main/AllinityHubv.1.lua"))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							A good GUI with such functions as: Auto-Swing, Auto-Sell, Auto-Buy and others.
+							Script for auto-farming and the rest!
 						
 ]]
