@@ -1,13 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://pastebin.com/raw/hnVtRcyb"))()  
+loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							The Gui
-First Dupe
-Other Dupes
+							The script on the TP, speed, more!
 						
 ]]
