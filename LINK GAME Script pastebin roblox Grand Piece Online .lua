@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
---[[ Made by budderattack550 on v3rmillion! Press "B" to turn on the esp Press "N" to turn it off ]] loadstring(game:HttpGet("https://hastebin.com/raw/xazazulami", true))()
+--Grand Piece Online (Chest Autofarm) --The GUI will be destroyed on death, don't worry though it will still work as intended. --Credits: The infamous scammer Urbanstorm made this <3  --(as everyone just loves to call me.) loadstring(game:HttpGet("https://pastebin.com/raw/A4MWkZay"))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							The script includes Esp Crate for you
+							The script enables you to Crate Auto-Farm
 						
 ]]
