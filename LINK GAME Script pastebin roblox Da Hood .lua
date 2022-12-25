@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:GetObjects("rbxassetid://5812737894")[1].Source)()
+loadstring(game:HttpGet("https://pastebin.com/raw/WHXE3TSv", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							The script gives you the admin GUI for this game!
+							Script for fly and kill!
 						
 ]]
