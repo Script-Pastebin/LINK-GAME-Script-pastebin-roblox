@@ -1,9 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-_G.FasterLoading=false loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers/Spicy-Bagel/main/SpicyBagelHub.lua"))()
+game:GetService("RunService").RenderStepped:Connect(function()  for i,v in pairs(game.Workspace.Camera:GetChildren()) do   if v.Name ~= 'Left Arm' and v.Name ~= 'Right Arm' then     for i,g in pairs(v:GetDescendants()) do     if g.ClassName == 'Texture' then       g:Remove()      else if g.ClassName == 'Part' or g.ClassName == 'MeshPart' or g.ClassName == 'UnionOperation' then       g.Color = Color3.fromHSV(tick() % 5 / 5, 1, 1)      end     end    end   end  end end)
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
-Script with more than 20 functions for this place!
+
+							The script includes rainbow weapons pretty cool
+						
 ]]
