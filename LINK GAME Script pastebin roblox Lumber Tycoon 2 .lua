@@ -1,9 +1,14 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet'https://raw.githubusercontent.com/0x37Dev/Cool-Solo-Dupe-Thing/main/script.lua')()
+for i,v in pairs(game.ReplicatedStorage.Purchasables.Structures.BlueprintStructures:GetChildren()) do
+local clone = v:Clone()
+clone.Parent = game.Players.LocalPlayer.PlayerBlueprints.Blueprints
+end
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
-With the new script you will be able to dupat 1
+
+							The script gives you all the drawings in this game!
+						
 ]]
