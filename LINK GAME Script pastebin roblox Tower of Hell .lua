@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Helios-Hub/main/Loader.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bockatta/Atta/main/Loader'))();
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Cool GUI for this game running on free cheats!
+							The script gives you infinite HP and you don't die!
 						
 ]]
