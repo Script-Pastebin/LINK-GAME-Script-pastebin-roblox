@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet(('https://weebohub.fra1.cdn.digitaloceanspaces.com/Scripts/GameDetection.lua'),true))()
+loadstring(game:HttpGet("http://www.narwhalhacks.xyz/NeonHub/Main.lua", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							A script with many useful functions for this place!
+							Cool and easy script!
 						
 ]]
