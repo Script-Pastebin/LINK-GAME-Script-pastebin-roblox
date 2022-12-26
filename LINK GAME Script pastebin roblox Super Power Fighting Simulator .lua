@@ -1,6 +1,6 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dk4Q/Dk4QHub/master/Loader", true))()
+loadstring(game:HttpGet('https://pastebin.com/raw/9qZrQSMq'))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
