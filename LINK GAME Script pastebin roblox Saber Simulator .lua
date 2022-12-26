@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Allinity/Allinity-Hub/main/AllinityHubv.1.lua"))()
+ while wait() do     game.ReplicatedStorage.Events.Sell:fireServer()     game.ReplicatedStorage.Events.Clicked:fireServer() end 
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script for auto-farming and the rest!
+							Script for simple farming!
 						
 ]]
