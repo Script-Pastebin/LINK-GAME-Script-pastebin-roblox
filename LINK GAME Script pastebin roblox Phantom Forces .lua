@@ -1,11 +1,46 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-game:GetService("RunService").RenderStepped:Connect(function()  for i,v in pairs(game.Workspace.Camera:GetChildren()) do   if v.Name ~= 'Left Arm' and v.Name ~= 'Right Arm' then     for i,g in pairs(v:GetDescendants()) do     if g.ClassName == 'Texture' then       g:Remove()      else if g.ClassName == 'Part' or g.ClassName == 'MeshPart' or g.ClassName == 'UnionOperation' then       g.Color = Color3.fromHSV(tick() % 5 / 5, 1, 1)      end     end    end   end  end end)
+local color = BrickColor.new(50,0,250)
+local transparency = .8
+
+
+local function _ESP(c)
+  repeat wait() until c.PrimaryPart ~= nil
+  for i,p in pairs(c:GetChildren()) do
+    if p.ClassName == "Part" or p.ClassName == "MeshPart" then
+      if p:FindFirstChild("shit") then p.shit:Destroy() end
+      local a = Instance.new("BoxHandleAdornment",p)
+      a.Name = "shit"
+      a.Size = p.Size
+      a.Color = color
+      a.Transparency = transparency
+      a.AlwaysOnTop = true    
+      a.Visible = true    
+      a.Adornee = p
+      a.ZIndex = true    
+
+    end
+  end
+end
+local function ESP()
+    for i,v in pairs(workspace.Players:GetChildren()) do
+        for j,k in pairs(v:GetChildren()) do
+           if k.ClassName == "Model" then
+               print('yes')
+               _ESP(k)
+            end
+        end
+        v.ChildAdded:Connect(function(instance)
+           _ESP(instance) 
+        end)
+    end
+ end
+ESP()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							The script includes rainbow weapons pretty cool
+							Script on ESP to view opponents through walls!
 						
 ]]
