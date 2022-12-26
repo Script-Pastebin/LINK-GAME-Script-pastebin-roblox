@@ -1,11 +1,24 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet(('https://pastebin.com/raw/F5vSFHZt'),true))()
+setsimulationradius(math.huge,math.huge)
+for i,v in pairs(workspace:GetDescendants()) do
+if v:IsA("Humanoid") and v.Parent:FindFirstChild("enemyStyle") then
+v.Health = 0
+end
+end
+workspace.DescendantAdded:Connect(function(d)
+pcall(function()
+repeat wait() until d.Parent:FindFirstChild("enemyStyle")
+if d:IsA("Humanoid") then
+d.Health=0
+end
+end)
+end)
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Very cool script with the functions listed below: Auto-farm, instant kill, speed, jump, delete barrier, the rest in the script!
+							Insta win for Dungeon Quest!
 						
 ]]
