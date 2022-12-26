@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/uhohstinkyxiodra/miscelaniousshit/main/SpiralHub'))()
+loadstring(game:HttpGet("http://gameovers.net/Scripts/Free/The%20Rake/TheRake.lua", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							script for this game with many features!
+							Script with many test functions by downloading the script)
 						
 ]]
