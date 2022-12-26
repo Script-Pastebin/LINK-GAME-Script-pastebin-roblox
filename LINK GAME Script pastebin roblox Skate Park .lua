@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(gameHttpGet(httpspastebin.comraw00zfDL5G, true))()
+local plr = game.Players.LocalPlayer local pos = plr.Character.Head.Position  while wait() do for _,v in pairs(workspace.CandyStorage:GetDescendants()) do if v:IsA("Part") then     v.Position = pos end end end
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							A convenient script for this place has a quick execution of tricks and more!
+							The script will farm you money and candy
 						
 ]]
