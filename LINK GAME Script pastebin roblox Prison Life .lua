@@ -1,13 +1,22 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
+for i,v in pairs(game.ReplicatedStorage:GetChildren()) do
+if string.find(v.Name,"Too") then
+_G.gunremote = v
+end
+end
 while wait() do
-a = game.Players:GetPlayers()
-for i = 1,#a do v=a[i]
+for i,p in pairs(game.Players:GetChildren()) do
 pcall(function()
-local A_1={[1]={["Distance"]=30,["Cframe"]=v.Character.Head.CFrame},[2]={["Distance"]=30,["Cframe"]=v.Character.HumanoidRootPart.CFrame},[3]={["Distance"]=30,["Cframe"]=v.Character.Head.CFrame},[4]={["Distance"]=30,["Cframe"]=v.Character["Left Arm"].CFrame},[5]={["Distance"]=30,["Cframe"]=v.Character["Right Arm"].CFrame},[6]={["Distance"]=30,["Cframe"]=v.Character["Left Leg"].CFrame},[7]={["Distance"]=3,["Cframe"]=v.Character["Right Leg"].CFrame}}
-local A_2 = game.Players.LocalPlayer.Character["M9"]
-local Event = game:GetService("ReplicatedStorage").ShootEvent
-Event:FireServer(A_1, A_2)
+local A_1 =  {
+["Function"] = "Hurt",
+["Victim"] = p.Character.Humanoid,
+["Damage"] = 40.3
+}
+local Event = _G.gunremote
+for i = 1,3 do
+Event:FireServer(A_1)
+end
 end)
 end
 end
@@ -16,6 +25,6 @@ end
 
 --[[ Script Description:
 
-							LAG ALL
+							LOOP KILL ALL
 						
 ]]
