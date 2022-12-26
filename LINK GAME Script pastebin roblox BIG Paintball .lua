@@ -1,9 +1,12 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-_G.FasterLoading=false loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers/Spicy-Bagel/main/SpicyBagelHub.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Singularity5490/bigpaintball/main/unlockall.lua'))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
-Script with more than 10 functions for this place!
+
+							This script will unlock all the weapons in the game even donation!
+But still it's not forever after re-entering the game, everything disappears!!!
+						
 ]]
