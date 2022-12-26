@@ -1,11 +1,9 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
+loadstring(game:HttpGet('https://pastebin.com/raw/MeAL9tUE'))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
-
-							Script for crash or jokes for this game!
-						
+Script for this game with more than 25 functions!
 ]]
