@@ -13,6 +13,6 @@ end) --Credits: !Bearplayz/Disaplo#8070
 
 --[[ Script Description:
 
-							Ultra Gui for this place!
+							To use this script to issue money, click on F
 						
 ]]
