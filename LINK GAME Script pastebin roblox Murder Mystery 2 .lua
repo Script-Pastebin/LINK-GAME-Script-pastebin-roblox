@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Helios-Hub/main/Loader.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/a0ww9Cj4"))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							This GUI has such features as: X-Ray, ESP All, Gun Grab, Free Emotions, and more.
+							Script for auto-farm and a simple game with friends!
 						
 ]]
