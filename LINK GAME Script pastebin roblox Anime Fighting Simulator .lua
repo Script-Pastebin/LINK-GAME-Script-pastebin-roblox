@@ -6,6 +6,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/script
 
 --[[ Script Description:
 
-							The script is only for fast farming!
+							Script for auto-farming for this game!
 						
 ]]
