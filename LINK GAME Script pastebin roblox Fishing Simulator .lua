@@ -1,12 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-game:GetService("ReplicatedStorage").CloudClientResources.Communication.Functions.FishBiting:InvokeServer()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/quentin452/CATIX-HUB/master/!Catix%20Hub", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							The script on the limited fish
+							(Click Auto-Detect)
 						
 ]]
