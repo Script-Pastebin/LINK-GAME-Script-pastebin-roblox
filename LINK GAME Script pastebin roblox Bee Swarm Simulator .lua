@@ -6,6 +6,6 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/w3uz/Lua/main/snowfl
 
 --[[ Script Description:
 
-							Script for Christmas farming in this game!
+							Script for many of the best features for this game!
 						
 ]]
