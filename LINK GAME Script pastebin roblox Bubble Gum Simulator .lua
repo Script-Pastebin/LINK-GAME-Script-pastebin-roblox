@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/MainLoader"), true))()
+loadstring(game:HttpGet('https://ghostbin.co/paste/ctpa/raw'))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							With this script you will be able to farm money!
+							The script for fast leveling
 						
 ]]
