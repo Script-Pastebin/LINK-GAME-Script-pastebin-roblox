@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://pastebin.com/raw/0rLVTifE"))()
+loadstring(game:HttpGet('https://pastebin.com/raw/FQdf2vbB'))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script for quick passage!
+							The script for the counter of open balls.
 						
 ]]
