@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://pastebin.com/raw/9V6gUDrz",true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/w3uz/Lua/main/snowflakes.lua"),true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script with the most useful features for this game!
+							Script for Christmas farming in this game!
 						
 ]]
