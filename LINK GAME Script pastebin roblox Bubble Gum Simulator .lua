@@ -6,6 +6,6 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/ma
 
 --[[ Script Description:
 
-							Cool GUI for this game running on free cheats!
+							With this script you will be able to farm money!
 						
 ]]
