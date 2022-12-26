@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Helios-Hub/main/Loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nonfunctable/IFM/main/script.lua", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Cool GUI for this game running on free cheats!
+							Little functional script but useful for this place!
 						
 ]]
