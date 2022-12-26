@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://pastebin.com/raw/80NEYZjh", true))()
+_G.speed = 750   loadstring(game:HttpGet("https://raw.githubusercontent.com/reavscripts/sl2_autofarm/main/main.lua", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Little functional script but useful for this place!
+							Updating the war Mode Farming script works on free cheats!
 						
 ]]
