@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
+loadstring(game:HttpGet("http://www.narwhalhacks.xyz/NeonHub/Main.lua", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							The script gives Auto-Farm, Auto-Rebirst other!
+							Cool and easy script for fast pumping in this game!
 						
 ]]
