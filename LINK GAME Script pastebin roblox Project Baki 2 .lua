@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://pastebin.com/raw/jduL3gZn"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BAG0N/OPM_DF/main/Baki"))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script for many useful functions for this game!
+							The script for this game works on free cheats!
 						
 ]]
