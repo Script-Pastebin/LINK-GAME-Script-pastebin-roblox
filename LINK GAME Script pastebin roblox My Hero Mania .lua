@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/z4gs/scripts/master/MyHeroMania_autofarm.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Solx69/Shit-Boy-Hub-Main/main/Master.lua'))();
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script for auto-farm )
+							Script with the most useful features for this game!
 						
 ]]
