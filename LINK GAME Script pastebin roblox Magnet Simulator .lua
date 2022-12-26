@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-
+loadstring(game:HttpGet(('https://pastebin.com/raw/xyvE5K4q'),true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Cool script for fast pumping in this place a lot of different functions!
+							Script with the most useful features for this game!
 						
 ]]
