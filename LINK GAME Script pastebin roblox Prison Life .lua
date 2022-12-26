@@ -6,6 +6,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Helios-
 
 --[[ Script Description:
 
-							Simple but cool skriptets for this place for quick passage!
+							In the GUI there is a function: Kill All Anti Taze, Inf Stamina, and more!
 						
 ]]

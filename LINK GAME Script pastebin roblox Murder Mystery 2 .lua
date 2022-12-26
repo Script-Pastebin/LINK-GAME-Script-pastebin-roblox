@@ -6,6 +6,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Helios-
 
 --[[ Script Description:
 
-							The script for a good game and legitmate functional and easy to use GUI!
+							This GUI has such features as: X-Ray, ESP All, Gun Grab, Free Emotions, and more.
 						
 ]]
