@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://pastebin.com/raw/7CQxsEVu", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringLri132x9y0yU", true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							A proven script running on EasyExploit has convenient functions and everything else!
+							Good auto-farm for free cheat, useful features Auto-Tapp, Auto-Rebirth, All Islands!
 						
 ]]
