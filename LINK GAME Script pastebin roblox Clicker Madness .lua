@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/bockatta/Atta/main/Loader'))();
+loadstring(game:HttpGet('https://raw.githubusercontent.com/WetCheezit/ClickerMadness/main/ClickerMadness.lua',true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							A script with many functions for this place both useful and additional!
+							The coolest script for this game! Many functions and the most useful ones.
 						
 ]]
