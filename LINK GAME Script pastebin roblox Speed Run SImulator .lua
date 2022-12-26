@@ -1,11 +1,9 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet(('https://gist.githubusercontent.com/Urbanstorms/8f8759d01ac16de28617536743361301/raw/cd951952cf962bddc3654d1f05d2ffda4a03581c/Speed%2520Run%2520Simulator'),true))()
+_G.AutoFarm = true local ReplicatedStorage = game:GetService("ReplicatedStorage").Remotes if _G.AutoFarm == true then    game:GetService("RunService").RenderStepped:Connect(        function()            ReplicatedStorage.AddSpeed:FireServer()        end    ) end
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
-
-							Script with the most useful features for this game!
-						
+The script will farm you as if you have more than 1000 Pets!
 ]]
