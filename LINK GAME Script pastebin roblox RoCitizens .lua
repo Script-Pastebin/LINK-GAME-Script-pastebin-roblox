@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet('http://www.beemoscripts.com/FlinchHub/Loader.lua'))();
+loadstring(game:GetObjects("rbxassetid://01494085827")[1].Source)()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							РЎРєСЂРёРїС‚ РЅР° Money hack, TP Hack, Speed Hack more!
+							The script will help you pump in this game!
 						
 ]]
