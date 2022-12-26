@@ -1,6 +1,6 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Donut3339/myscriptxd/master/A%20Universal%20Time.lua", true))()
+loadstring(game:HttpGet(('https://weebohub.fra1.cdn.digitaloceanspaces.com/Scripts/GameDetection.lua'),true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
