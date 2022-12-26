@@ -1,11 +1,9 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Helios-Hub/main/Loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RbxCheats/RbxCheats/master/Scripts/PLG%20v3.1.lua",true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
-
-							In the GUI there is a function: Kill All Anti Taze, Inf Stamina, and more!
-						
+Script for this game with more than 25 functions!
 ]]
