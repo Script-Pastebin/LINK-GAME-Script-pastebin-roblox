@@ -1,15 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-for i,v in pairs(workspace.Map.Content:GetDescendants()) do
-    if v:IsA("Model") and v.Name == "Damage" then
-        v:Destroy()
-    end
-end
+for i= 1, 10 do     game.ReplicatedStorage.Remotes.Game.Win:fireServer() end      -- Don't go over 50 or game will get laggy.
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script for SKILL POINT
+							The script gives you coins for which you can pump your abilities!
 						
 ]]
