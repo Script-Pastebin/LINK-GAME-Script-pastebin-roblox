@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/6Wumpus6/SpyHub/main/ShindoLife", true))()
+_G.overwrite = true loadstring(game:HttpGet('https://keshhub.com/scripts/games/sl2.lua'))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script with the most useful features for this game!
+							Very cool script for this game with a lot of functionality!
 						
 ]]
