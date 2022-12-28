@@ -1,6 +1,6 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGet('http://alpha1004.tech/scripts/AlphaX.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/piglex9/jailbreak-ice-tray/main/Main.lua',true))()
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
