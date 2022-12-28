@@ -1,11 +1,11 @@
 -- find more powerfull verified and New Scripts here : https://script-pastebin.com
 
-loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/z4gs/scripts/master/Ro-Ghoul%20Auto%20Farm.lua")))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RaptorsSexy/Cracks/main/NoirLikesDick.txt"))();
 
 -- find more powerfull verified and New Scripts here : https://scriptpastebin.io
 
 --[[ Script Description:
 
-							Script with the most good features for this game!
+							Script for farming in this place with many useful features!
 						
 ]]
